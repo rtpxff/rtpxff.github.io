@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120mm"
+   height="121mm"
+   viewBox="0 0 120 121"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="palka.logo2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8617812"
+     inkscape:cx="271.70682"
+     inkscape:cy="336.09578"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="rotate(-36.346202,225.73544,79.628473)"
+       id="g360-3"
+       style="fill:#ffffff">
+      <g
+         id="text3860-5-1-9-5-8"
+         style="font-style:normal;font-weight:normal;font-size:39.4779px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.986947"
+         transform="matrix(1.0437962,0,0,0.95804141,-4.5069887,13.947355)"
+         aria-label="PAL" />
+      <g
+         id="text3860-5-56-3-5-8-9"
+         style="font-style:normal;font-weight:normal;font-size:39.4779px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.986947"
+         transform="matrix(1.0437962,0,0,0.95804141,-4.5069887,10.243186)"
+         aria-label="KA" />
+    </g>
+    <g
+       aria-label="PAL"
+       transform="matrix(1.0437962,0,0,0.95804141,21.373682,110.16095)"
+       style="font-style:normal;font-weight:normal;font-size:39.4779px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.986947"
+       id="text3860-5-1-9-5-3" />
+    <g
+       aria-label="KA"
+       transform="matrix(1.0437962,0,0,0.95804141,21.373682,106.45678)"
+       style="font-style:normal;font-weight:normal;font-size:39.4779px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.986947"
+       id="text3860-5-56-3-5-8-8" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect745-6"
+       d="M 0.04952761,0.07945771 V 69.727408 H 6.3468176 v -8.13336 -15.47554 h 8.9436394 12.107272 c 4.644498,0 6.9665,-1.56667 6.9665,-4.70049 0,-2.94946 -2.146387,-4.42505 -6.4394,-4.42505 H 15.554524 7.8268306 l 3.6064984,-10.78435 h 16.868738 c 5.472959,0 9.627454,0.57642 12.464354,1.72857 2.862,1.15213 5.121973,2.91515 6.778916,5.28857 0.536723,0.75731 0.977598,1.54668 1.34307,2.36265 l 3.158979,-9.37979 h 16.683217 l 12.10882,35.53064 v -35.53064 h 15.778895 v 35.60144 H 116.87806 V 0.07945771 Z M 58.901753,41.067658 48.960236,73.389198 h -8.437727 l -10.234001,13.58573 9.80767,18.214382 11.94449,-35.461902 h 15.576305 z m -16.061039,12.47572 c -3.111132,1.80068 -6.965772,2.70216 -11.56467,2.70216 h -8.924001 v 17.14366 h -7.427971 v 15.83262 l 14.197066,-19.49441 h 8.268745 z m 27.129609,19.84582 14.83269,43.518252 H 116.87806 V 73.389198 Z m -11.07632,11.19673 -9.941517,32.321522 h 19.770367 z m -38.660177,14.486455 -5.309754,6.947367 v 10.8877 h 14.197066 z"
+       style="fill:#ff0000;stroke:none;stroke-width:0.561565" />
+  </g>
+</svg>
